@@ -1,2 +1,2 @@
 # scripts to download sources
-# Kevin + Karan work on this
+# TODO: Kevin + Karan work on this
