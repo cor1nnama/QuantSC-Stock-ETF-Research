@@ -14,7 +14,7 @@ tickers = {"Tech": ["AAPL", "MSFT", "GOOG", "NVDA", "ADBE", "ORCL", "INTC", "TXN
            "Energy": ["XOM","CVX","COP","EOG","SLB","OXY","DVN","FANG","LNG","HAL"],
            "Consumer_Staples": ["PG","KO","PEP","WMT","COST","CL","KMB","GIS","HSY","MKC"],
            "Real_Estate": ["AMT","PLD","EQIX","O","SPG","WELL","DLR","AVB","EQR","VICI"],
-           "Communication_Services": ["META","NFLX","DIS","TMUS","VZ","T","CHTR","FOXA","PARA","GOOG"]
+           "Communication_Services": ["META","NFLX","DIS","TMUS","VZ","T","CHTR","FOXA","CMCSA","GOOG"]
           }
 
 
@@ -24,5 +24,6 @@ tickers = {"Tech": ["AAPL", "MSFT", "GOOG", "NVDA", "ADBE", "ORCL", "INTC", "TXN
 
 data = {}
 
-for key in tickers.keys():
-    data.update({key: yf.download(tickers[key], start="2018-01-01", group_by="ticker")})
+for sector, sector_tickets in tickers.items():
+    print("Downloading:", sector)
+    data.update({key: yf.download(sector_tickers, start="2018-01-01", group_by="ticker")})
