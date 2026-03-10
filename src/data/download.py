@@ -26,4 +26,4 @@ data = {}
 
 for sector, sector_tickets in tickers.items():
     print("Downloading:", sector)
-    data.update({key: yf.download(sector_tickers, start="2018-01-01", group_by="ticker")})
+    data.update({sector: yf.download(sector_tickers, start="2018-01-01", group_by="ticker")})
