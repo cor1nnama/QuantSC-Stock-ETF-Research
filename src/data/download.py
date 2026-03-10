@@ -26,4 +26,7 @@ data = {}
 
 for sector, sector_tickets in tickers.items():
     print("Downloading:", sector)
-    data.update({sector: yf.download(sector_tickets, start="2018-01-01", group_by="ticker")})
+    df = yf.download(sector_tickets, start="2018-01-01", group_by="ticker")
+
+    data.update({sector: df})
+    df.to_csv(f"csv/{sector}_stock_data.csv")
