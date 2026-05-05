@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640">
+<rect width="100%" height="100%" fill="#FBFAF7"/>
+<text x="600" y="34" text-anchor="middle" font-family="Verdana, sans-serif" font-size="24" font-weight="700" fill="#1F2933">Financials: MS/V Model PnL With Train/Simulation Boundary</text>
+<rect x="90.00" y="80" width="833.90" height="478" fill="#D8F3DC" opacity="0.35"/>
+<text x="506.95" y="100" text-anchor="middle" font-family="Verdana, sans-serif" font-size="12" fill="#334155">Training/validation</text>
+<rect x="923.90" y="80" width="166.10" height="478" fill="#FFE8D6" opacity="0.45"/>
+<text x="1006.95" y="100" text-anchor="middle" font-family="Verdana, sans-serif" font-size="12" fill="#334155">Simulation</text>
+<line x1="90" y1="558.00" x2="1090" y2="558.00" stroke="#D7D7D7" stroke-width="1"/>
+<text x="80" y="562.00" text-anchor="end" font-family="Verdana, sans-serif" font-size="11" fill="#475569">-0.4388</text>
+<line x1="90" y1="462.40" x2="1090" y2="462.40" stroke="#D7D7D7" stroke-width="1"/>
+<text x="80" y="466.40" text-anchor="end" font-family="Verdana, sans-serif" font-size="11" fill="#475569">-0.0034</text>
+<line x1="90" y1="366.80" x2="1090" y2="366.80" stroke="#D7D7D7" stroke-width="1"/>
+<text x="80" y="370.80" text-anchor="end" font-family="Verdana, sans-serif" font-size="11" fill="#475569">0.4320</text>
+<line x1="90" y1="271.20" x2="1090" y2="271.20" stroke="#D7D7D7" stroke-width="1"/>
+<text x="80" y="275.20" text-anchor="end" font-family="Verdana, sans-serif" font-size="11" fill="#475569">0.8675</text>
+<line x1="90" y1="175.60" x2="1090" y2="175.60" stroke="#D7D7D7" stroke-width="1"/>
+<text x="80" y="179.60" text-anchor="end" font-family="Verdana, sans-serif" font-size="11" fill="#475569">1.3029</text>
+<line x1="90" y1="80.00" x2="1090" y2="80.00" stroke="#D7D7D7" stroke-width="1"/>
+<text x="80" y="84.00" text-anchor="end" font-family="Verdana, sans-serif" font-size="11" fill="#475569">1.7384</text>
+<line x1="90.00" y1="80" x2="90.00" y2="558" stroke="#ECECEC" stroke-width="1"/>
+<text x="90.00" y="586" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" fill="#475569">2020-05-21</text>
+<line x1="290.00" y1="80" x2="290.00" y2="558" stroke="#ECECEC" stroke-width="1"/>
+<text x="290.00" y="586" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" fill="#475569">2021-07-09</text>
+<line x1="490.00" y1="80" x2="490.00" y2="558" stroke="#ECECEC" stroke-width="1"/>
+<text x="490.00" y="586" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" fill="#475569">2022-08-27</text>
+<line x1="690.00" y1="80" x2="690.00" y2="558" stroke="#ECECEC" stroke-width="1"/>
+<text x="690.00" y="586" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" fill="#475569">2023-10-15</text>
+<line x1="890.00" y1="80" x2="890.00" y2="558" stroke="#ECECEC" stroke-width="1"/>
+<text x="890.00" y="586" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" fill="#475569">2024-12-02</text>
+<line x1="1090.00" y1="80" x2="1090.00" y2="558" stroke="#ECECEC" stroke-width="1"/>
+<text x="1090.00" y="586" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" fill="#475569">2026-01-21</text>
+<line x1="90" y1="80" x2="90" y2="558" stroke="#1F2933" stroke-width="1.2"/>
+<line x1="90" y1="558" x2="1090" y2="558" stroke="#1F2933" stroke-width="1.2"/>
+<text x="24" y="319" text-anchor="middle" transform="rotate(-90 24 319)" font-family="Verdana, sans-serif" font-size="13" fill="#1F2933">Cumulative PnL proxy</text>
+<line x1="721.10" y1="80" x2="721.10" y2="558" stroke="#52796F" stroke-width="2.2" stroke-dasharray="2,5"/>
+<text x="729.10" y="122" font-family="Verdana, sans-serif" font-size="12" fill="#52796F">Validation starts 2023-12-19</text>
+<line x1="923.90" y1="80" x2="923.90" y2="558" stroke="#1D3557" stroke-width="2.2" stroke-dasharray="7,5"/>
+<text x="931.90" y="122" font-family="Verdana, sans-serif" font-size="12" fill="#1D3557">Simulation starts 2025-02-11</text>
+<polyline points="90.00,461.66 93.86,454.63 100.14,460.49 102.55,451.39 105.93,468.85 110.28,478.27 117.52,474.36 772.28,463.21 772.76,456.23 773.24,456.49 774.69,456.32 775.18,449.81 775.66,448.19 778.56,449.38 788.21,444.87 788.70,449.15 789.18,459.54 789.66,469.06 790.14,483.05 817.18,482.28 818.63,483.00 822.01,477.36 859.68,483.18 860.16,493.47 860.64,503.99 861.13,501.77 862.57,492.51 910.38,492.62 913.76,499.45 945.63,520.17 948.52,525.03 950.45,493.72 950.94,461.30 954.32,487.27 960.59,497.60 964.94,497.69 967.35,495.76 967.84,490.40 968.32,480.72 969.29,482.85 972.67,475.66 978.94,478.18 979.43,479.39 980.87,475.52 981.36,477.56 981.84,479.37 982.81,457.01 984.74,440.63 985.22,388.86 986.19,336.84 987.63,315.09 988.12,300.99 988.60,268.94 989.08,266.43 989.57,269.76 991.01,276.67 991.50,274.54 991.98,280.67 992.46,293.98 994.39,301.89 999.71,306.01 1008.40,287.29 1008.88,273.70 1009.36,254.51 1009.85,244.09 1011.29,230.19 1011.78,219.72 1012.26,215.50 1012.74,226.78 1013.23,238.04 1014.67,248.81 1015.16,263.01 1029.16,271.45 1052.82,266.69 1053.30,254.93 1053.79,249.59 1055.23,244.48 1055.72,239.05 1056.20,232.16 1056.68,228.99 1057.17,218.28 1058.61,211.93 1059.10,192.58 1059.58,178.33 1068.75,161.87 1069.24,144.46 1069.72,130.63 1070.20,154.32 1070.69,178.91 1087.59,141.00 1089.52,117.90 1090.00,112.97" fill="none" stroke="#0B6E4F" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<rect x="96" y="90" width="330" height="58" rx="8" fill="#FFFFFF" opacity="0.86" stroke="#E5E7EB"/>
+<line x1="108" y1="108" x2="144" y2="108" stroke="#0B6E4F" stroke-width="3"/>
+<text x="154" y="112" font-family="Verdana, sans-serif" font-size="12" fill="#1F2933">Model cumulative PnL proxy</text>
+</svg>

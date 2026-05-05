@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640">
+<rect width="100%" height="100%" fill="#FBFAF7"/>
+<text x="600" y="34" text-anchor="middle" font-family="Verdana, sans-serif" font-size="24" font-weight="700" fill="#1F2933">Real_Estate: SPG/AVB Simulation PnL vs S&amp;P 500</text>
+<line x1="90" y1="558.00" x2="1090" y2="558.00" stroke="#D7D7D7" stroke-width="1"/>
+<text x="80" y="562.00" text-anchor="end" font-family="Verdana, sans-serif" font-size="11" fill="#475569">-0.0372</text>
+<text x="1100" y="562.00" text-anchor="start" font-family="Verdana, sans-serif" font-size="11" fill="#475569">-19.1%</text>
+<line x1="90" y1="462.40" x2="1090" y2="462.40" stroke="#D7D7D7" stroke-width="1"/>
+<text x="80" y="466.40" text-anchor="end" font-family="Verdana, sans-serif" font-size="11" fill="#475569">0.0707</text>
+<text x="1100" y="466.40" text-anchor="start" font-family="Verdana, sans-serif" font-size="11" fill="#475569">-14.5%</text>
+<line x1="90" y1="366.80" x2="1090" y2="366.80" stroke="#D7D7D7" stroke-width="1"/>
+<text x="80" y="370.80" text-anchor="end" font-family="Verdana, sans-serif" font-size="11" fill="#475569">0.1787</text>
+<text x="1100" y="370.80" text-anchor="start" font-family="Verdana, sans-serif" font-size="11" fill="#475569">-9.9%</text>
+<line x1="90" y1="271.20" x2="1090" y2="271.20" stroke="#D7D7D7" stroke-width="1"/>
+<text x="80" y="275.20" text-anchor="end" font-family="Verdana, sans-serif" font-size="11" fill="#475569">0.2867</text>
+<text x="1100" y="275.20" text-anchor="start" font-family="Verdana, sans-serif" font-size="11" fill="#475569">-5.3%</text>
+<line x1="90" y1="175.60" x2="1090" y2="175.60" stroke="#D7D7D7" stroke-width="1"/>
+<text x="80" y="179.60" text-anchor="end" font-family="Verdana, sans-serif" font-size="11" fill="#475569">0.3947</text>
+<text x="1100" y="179.60" text-anchor="start" font-family="Verdana, sans-serif" font-size="11" fill="#475569">-0.8%</text>
+<line x1="90" y1="80.00" x2="1090" y2="80.00" stroke="#D7D7D7" stroke-width="1"/>
+<text x="80" y="84.00" text-anchor="end" font-family="Verdana, sans-serif" font-size="11" fill="#475569">0.5026</text>
+<text x="1100" y="84.00" text-anchor="start" font-family="Verdana, sans-serif" font-size="11" fill="#475569">3.8%</text>
+<line x1="90.00" y1="80" x2="90.00" y2="558" stroke="#ECECEC" stroke-width="1"/>
+<text x="90.00" y="586" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" fill="#475569">2025-02-04</text>
+<line x1="290.00" y1="80" x2="290.00" y2="558" stroke="#ECECEC" stroke-width="1"/>
+<text x="290.00" y="586" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" fill="#475569">2025-03-04</text>
+<line x1="490.00" y1="80" x2="490.00" y2="558" stroke="#ECECEC" stroke-width="1"/>
+<text x="490.00" y="586" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" fill="#475569">2025-04-02</text>
+<line x1="690.00" y1="80" x2="690.00" y2="558" stroke="#ECECEC" stroke-width="1"/>
+<text x="690.00" y="586" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" fill="#475569">2025-04-30</text>
+<line x1="890.00" y1="80" x2="890.00" y2="558" stroke="#ECECEC" stroke-width="1"/>
+<text x="890.00" y="586" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" fill="#475569">2025-05-29</text>
+<line x1="1090.00" y1="80" x2="1090.00" y2="558" stroke="#ECECEC" stroke-width="1"/>
+<text x="1090.00" y="586" text-anchor="middle" font-family="Verdana, sans-serif" font-size="11" fill="#475569">2025-06-27</text>
+<line x1="90" y1="80" x2="90" y2="558" stroke="#1F2933" stroke-width="1.2"/>
+<line x1="90" y1="558" x2="1090" y2="558" stroke="#1F2933" stroke-width="1.2"/>
+<text x="24" y="319" text-anchor="middle" transform="rotate(-90 24 319)" font-family="Verdana, sans-serif" font-size="13" fill="#1F2933">Cumulative PnL proxy</text>
+<line x1="1090" y1="80" x2="1090" y2="558" stroke="#1F2933" stroke-width="1.2"/>
+<text x="1178" y="319" text-anchor="middle" transform="rotate(90 1178 319)" font-family="Verdana, sans-serif" font-size="13" fill="#1F2933">S&amp;P 500 cumulative return</text>
+<polyline points="90.00,525.03 138.95,459.21 341.75,444.75 348.74,444.26 355.73,428.78 376.71,390.64 383.71,366.16 502.59,330.94 523.57,282.37 530.56,243.36 544.55,190.08 628.46,223.52 635.45,241.82 642.45,240.74 670.42,216.73 677.41,187.11 824.27,202.64 1013.08,219.36 1020.07,229.45 1027.06,244.29 1041.05,240.99 1062.03,239.30 1069.02,219.77 1076.01,183.79 1083.01,148.42 1090.00,112.97" fill="none" stroke="#184E77" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="90.00,159.77 90.00,159.77 96.99,151.60 103.99,143.95 110.98,163.88 131.96,149.88 138.95,149.17 145.94,154.89 152.94,133.04 159.93,133.20 187.90,128.02 194.90,122.98 201.89,132.20 208.88,168.34 229.86,178.68 236.85,188.37 243.85,188.09 250.84,220.80 257.83,188.63 278.81,224.91 285.80,249.68 292.80,227.36 299.79,263.40 306.78,252.43 327.76,306.32 334.76,321.03 341.75,311.60 348.74,338.53 355.73,297.88 376.71,285.35 383.71,306.28 390.70,285.29 397.69,289.58 404.69,287.97 425.66,253.35 432.66,250.20 439.65,272.51 446.64,279.05 453.64,317.95 474.62,307.25 481.61,299.91 488.60,286.79 495.59,381.80 502.59,493.42 523.57,497.52 530.56,525.03 537.55,360.90 544.55,426.27 551.54,393.28 572.52,378.53 579.51,381.76 586.50,423.63 593.50,421.20 621.47,464.30 628.46,419.45 635.45,388.95 642.45,351.25 649.44,337.25 670.42,336.02 677.41,324.92 684.41,322.07 691.40,309.92 698.39,281.35 719.37,293.92 726.36,308.96 733.36,300.53 740.35,289.22 747.34,290.62 768.32,226.82 775.31,212.16 782.31,210.07 789.30,201.64 796.29,187.29 817.27,185.48 824.27,193.49 831.26,226.67 838.25,227.57 845.24,241.14 873.22,200.04 880.21,211.46 887.20,203.29 894.20,203.45 915.17,195.06 922.17,183.14 929.16,182.99 936.15,193.89 943.15,172.76 964.13,170.84 971.12,159.44 978.11,165.18 985.10,157.21 992.10,180.85 1013.08,161.42 1020.07,178.86 1027.06,179.50 1041.05,184.01 1062.03,164.17 1069.02,140.97 1076.01,140.98 1083.01,124.06 1090.00,112.97" fill="none" stroke="#D1495B" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" opacity="0.9"/>
+<rect x="96" y="90" width="330" height="58" rx="8" fill="#FFFFFF" opacity="0.86" stroke="#E5E7EB"/>
+<line x1="108" y1="108" x2="144" y2="108" stroke="#184E77" stroke-width="3"/>
+<text x="154" y="112" font-family="Verdana, sans-serif" font-size="12" fill="#1F2933">Model cumulative PnL proxy</text>
+<line x1="108" y1="132" x2="144" y2="132" stroke="#D1495B" stroke-width="2.5"/>
+<text x="154" y="136" font-family="Verdana, sans-serif" font-size="12" fill="#1F2933">S&amp;P 500 cumulative return</text>
+<text x="90" y="618" font-family="Verdana, sans-serif" font-size="12" fill="#475569">simulation trades=25, total pnl=0.46541</text>
+</svg>
